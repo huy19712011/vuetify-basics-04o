@@ -1,0 +1,3 @@
+<template>
+  <OtherComponent></OtherComponent>
+</template>
