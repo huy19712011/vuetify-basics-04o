@@ -22,6 +22,8 @@ declare module 'vue' {
     Replies: typeof import('./src/components/example02/Replies.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    SideMenu: typeof import('./src/components/example03/SideMenu.vue')['default']
+    SideMenuTreeView: typeof import('./src/components/example03/SideMenuTreeView.vue')['default']
     Tweet: typeof import('./src/components/example02/Tweet.vue')['default']
   }
 }
