@@ -1,3 +1,4 @@
 <template>
-  <OtherComponent></OtherComponent>
+  <!-- <OtherComponent></OtherComponent> -->
+  <MyCard></MyCard>
 </template>
